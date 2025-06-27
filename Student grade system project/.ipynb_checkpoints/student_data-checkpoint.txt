@@ -1,0 +1,14 @@
+Student, Maths score, Grade
+Alice Johnson,87,A
+Bob Smith,72,A
+Clara Lee,95,A
+Daniel Cruz,55,C
+Ella White,88,A
+Frank Green,40,E
+Grace Kim,72,A
+Henry Ford,90,A
+Ivy Black,65,B
+Jack Brown,98,A
+Bob Manuel,46,D
+Jet Lee,28,F
+Frank Edwards,28,F
