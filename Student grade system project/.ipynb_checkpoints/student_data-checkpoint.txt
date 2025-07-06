@@ -1,7 +1,7 @@
 Student, Maths score, Grade
 Alice Johnson,87,A
 Bob Smith,72,A
-Clara Lee,95,A
+Clara Lee,98,A
 Daniel Cruz,55,C
 Ella White,88,A
 Frank Green,40,E
